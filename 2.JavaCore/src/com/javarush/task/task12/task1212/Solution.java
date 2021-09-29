@@ -14,6 +14,8 @@ public class Solution {
             return "Я - котенок";
         }
 
-        public abstract Pet getChild();
+        public Pet getChild() {
+            return null;
+        }
     }
 }

@@ -14,7 +14,10 @@ public class Solution {
         boolean isAlcoholic();
     }
 
-    public static class AlcoholicBeer {
+    public static class AlcoholicBeer  implements Drink {
+        public boolean isAlcoholic() {
+            return true;
+        }
         @Override
         public String toString() {
             if (isAlcoholic()) {
