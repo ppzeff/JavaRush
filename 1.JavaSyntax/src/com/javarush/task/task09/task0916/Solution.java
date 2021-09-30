@@ -14,9 +14,9 @@ public class Solution {
     }
 
     public static void handleExceptions(Solution obj) {
-        obj.method1();
-        obj.method2();
-        obj.method3();
+//        obj.method1();
+//        obj.method2();
+//        obj.method3();
     }
 
     public void method1() throws IOException {

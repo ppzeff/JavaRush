@@ -14,6 +14,7 @@ public class Solution {
 
     public static ArrayList<int[]> createList() {
         //напишите тут ваш код
+        return null;
     }
 
     public static void printList(ArrayList<int[]> list) {

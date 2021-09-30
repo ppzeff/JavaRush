@@ -10,6 +10,7 @@ public class Solution {
     }
 
     public static double getWeight(int earthWeight) {
+        return 0;
         //напишите тут ваш код
     }
 }

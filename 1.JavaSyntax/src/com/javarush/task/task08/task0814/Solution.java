@@ -10,12 +10,12 @@ import java.util.Set;
 public class Solution {
     public static Set<Integer> createSet() {
         // напишите тут ваш код
-
+        return null;
     }
 
     public static Set<Integer> removeAllNumbersGreaterThan10(Set<Integer> set) {
         // напишите тут ваш код
-
+        return null;
     }
 
     public static void main(String[] args) {

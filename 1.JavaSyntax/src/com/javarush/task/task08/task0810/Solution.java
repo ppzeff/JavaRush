@@ -28,7 +28,7 @@ public class Solution {
         get10000(list);
 
         // напишите тут ваш код
-
+        return 0;
     }
 
     public static void get10000(List list) {

@@ -15,30 +15,38 @@ public class Solution {
 
     public static StackTraceElement[] method2() {
         //напишите тут ваш код
+        return null;
     }
 
     public static StackTraceElement[] method3() {
         //напишите тут ваш код
+        return null;
     }
 
     public static StackTraceElement[] method4() {
         //напишите тут ваш код
+        return null;
     }
 
     public static StackTraceElement[] method5() {
         //напишите тут ваш код
+        return null;
     }
 
     public static StackTraceElement[] method6() {
         //напишите тут ваш код
+        return null;
     }
 
     public static StackTraceElement[] method7() {
         //напишите тут ваш код
+
+        return null;
     }
 
     public static StackTraceElement[] method8() {
         //напишите тут ваш код
+        return null;
     }
 
     public static StackTraceElement[] method9() {

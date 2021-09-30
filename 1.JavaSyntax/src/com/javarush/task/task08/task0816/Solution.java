@@ -19,6 +19,7 @@ public class Solution {
         map.put("Смирнов", dateFormat.parse("MAY 1 2012"));
 
         //напишите тут ваш код
+        return null;
     }
 
     public static void removeAllSummerPeople(Map<String, Date> map) {

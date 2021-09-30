@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 public class Solution {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        int a = reader.readLine();
+        int a = Integer.parseInt(reader.readLine());
         int b = reader.read();
 
         int sum = a + b;

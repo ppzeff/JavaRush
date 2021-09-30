@@ -10,7 +10,7 @@ import java.util.Set;
 public class Solution {
     public static Set<String> createSet() {
         //напишите тут ваш код
-
+        return null;
     }
 
     public static void main(String[] args) {

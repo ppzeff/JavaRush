@@ -21,7 +21,7 @@ public class Solution {
 
     public static Map<String, Cat> addCatsToMap(String[] cats) {
         //напишите тут ваш код
-
+        return null;
     }
 
 

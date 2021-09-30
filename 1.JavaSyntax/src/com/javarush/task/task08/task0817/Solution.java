@@ -10,7 +10,7 @@ import java.util.Map;
 public class Solution {
     public static Map<String, String> createMap() {
         //напишите тут ваш код
-
+        return null;
     }
 
     public static void removeTheFirstNameDuplicates(Map<String, String> map) {

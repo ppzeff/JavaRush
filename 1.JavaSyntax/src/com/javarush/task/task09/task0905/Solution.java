@@ -11,6 +11,7 @@ public class Solution {
 
     public static int getStackTraceDepth() {
         //напишите тут ваш код
+        return 0;
     }
 }
 

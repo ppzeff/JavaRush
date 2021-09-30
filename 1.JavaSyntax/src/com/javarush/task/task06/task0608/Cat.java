@@ -13,7 +13,7 @@ public class Cat {
 
     public static int getCatCount() {
         //напишите тут ваш код
-
+        return 0;
     }
 
     public static void setCatCount(int catCount) {

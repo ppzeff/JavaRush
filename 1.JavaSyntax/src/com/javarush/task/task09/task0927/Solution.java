@@ -18,10 +18,12 @@ public class Solution {
 
     public static Map<String, Cat> createMap() {
         //напишите тут ваш код
+        return null;
     }
 
     public static Set<Cat> convertMapToSet(Map<String, Cat> map) {
         //напишите тут ваш код
+        return null;
     }
 
     public static void printCatSet(Set<Cat> set) {

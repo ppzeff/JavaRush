@@ -12,8 +12,8 @@ public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        int maximum;
-        int minimum;
+        int maximum =0;
+        int minimum =1;
 
         //напишите тут ваш код
 
