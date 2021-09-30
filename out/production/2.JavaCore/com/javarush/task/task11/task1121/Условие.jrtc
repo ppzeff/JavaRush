@@ -1,6 +1,6 @@
 taskKey="com.javarush.task.task11.task1121"\n\nЧужой код, незнакомый
 
-Исправь наследование в классах: (классы Cat, Dog, Pet, House, Airplane).
+Исправь наследование в классах Cat, Dog, Pet, House, Airplane, чтобы программа компилировалась и работала.
 
 
 Требования:

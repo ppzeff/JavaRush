@@ -1,14 +1,14 @@
-taskKey="com.javarush.task.task11.task1114"\n\nВсе мировые религии
+taskKey="com.javarush.task.task11.task1114"\n\nПроисхождение видов
 
-Изменить три класса: Judaism (Иудаизм), Christianity (Христианство), Islam (Мусульманство).
-Унаследовать христианство от иудаизма и мусульманство от христианства.
+Измени три класса: Fish (рыба), Lizard (ящерица), Dinosaur (динозавр).
+Унаследуй ящерицу от рыбы и динозавра от ящерицы.
 
 
 Требования:
-1.	В классе Solution должен быть public класс Judaism (Иудаизм).
-2.	В классе Solution должен быть public класс Christianity (Христианство).
-3.	В классе Solution должен быть public класс Islam (Мусульманство).
-4.	Класс Christianity должен быть унаследован от класса Judaism.
-5.	Класс Islam должен быть унаследован от класса Christianity.
+1.	В классе Solution должен быть public класс Fish (рыба).
+2.	В классе Solution должен быть public класс Lizard (ящерица).
+3.	В классе Solution должен быть public класс Dinosaur (динозавр).
+4.	Класс Lizard должен быть унаследован от класса Fish.
+5.	Класс Dinosaur должен быть унаследован от класса Lizard.
 
 
