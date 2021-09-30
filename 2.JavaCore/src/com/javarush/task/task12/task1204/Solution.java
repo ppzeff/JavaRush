@@ -14,6 +14,10 @@ public class Solution {
     }
 
     public static void printObjectType(Object o) {
+        if (o instanceof Cat) System.out.println("Cat");
+        if (o instanceof Dog) System.out.println("Dog");
+        if (o instanceof Bird) System.out.println("Bird");
+
         //Напишите тут ваше решение
     }
 
